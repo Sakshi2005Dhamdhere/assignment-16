@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    h1{
+         font-family: "Pacifico", cursive;
+         font-style: normal;
+         text-align: center;
+         background-color: white;
+         font-size: 55px;
+         color: #cc488a;
+         position: sticky;
+         top: 4px;
+    }
+
+    h2{
+        font-family: "Lobster", sans-serif;
+        font-weight: 490;
+        font-style: normal;
+        text-align: center;
+        color: rgb(101, 188, 238);
+    }
+    
+    .coffee{
+        height: 290px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin : 50px 0 0 170px;
+        background-image: url(coffee.webp);
+        background-size: cover;
+        background-position: center;
+        
+    }
+    .pizza{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin : 0px 0 0 70px;
+        background-image: url(pizza.jfif);
+        background-size: cover;
+        background-position: center;
+        
+    }
+    .frappe{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin-left: 70px;
+        background-image: url(frappe.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    .Iced{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin-left: 70px;
+        background-image: url(iced.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    .Snacks{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin : 50px 0 0 170px;
+        background-image: url(snacks.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+    .cococola{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin-left: 70px;
+        background-image: url(coco\ cola.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .desert{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin-left: 70px;
+        background-image: url(desert.avif);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .soups{
+        height: 270px;
+        width: 230px;
+        border: 4px solid;
+        border-color: #f805d0;
+        border-radius: 10px 45px 10px 45px;
+        display: inline-block;
+        position: relative;
+        margin-left: 70px;
+        background-image: url(soup.jpg);
+        background-size: cover;
+        background-position: center;
+    }
+        .head{
+        border: 2px solid #cc488a;
+        background-color: #cc488a;
+        border-radius: 20px;
+        color: white;
+        position: absolute;
+        top: -70px;
+        width: 60px;
+        left: 50px;
+        margin: 20px;
+        padding: 10px;
+    }
+
+    h3{
+        margin-top: 55px;
+    }
+    h3{
+        color: rgb(7, 156, 241);
+    }
+    .chat{
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+    }
